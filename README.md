@@ -30,8 +30,8 @@ Naszym celem jest stworzenie **intuicyjnej aplikacji sklepowej**, która:
 
 ## 🛠 Technologie
 - **Backend**: Express JS  
-- **Frontend**: React jsx vite
-- **Baza danych**: SQL   
+- **Frontend**: React VITE
+- **Baza danych**: MySQL   
 - **Inne narzędzia**:  
   - GitHub (repozytorium kodu)   
   - Discord (komunikacja zespołu)  
@@ -39,7 +39,7 @@ Naszym celem jest stworzenie **intuicyjnej aplikacji sklepowej**, która:
 ---
 
 ## 💡 Możliwości rozwoju
-- 📱 Wersja mobilna (Flutter / React Native)  
+- 📱 Wersja mobilna (React Native)  
 - 🤖 Integracja z chatbotem (Messenger, WhatsApp)  
 - ⭐ Program lojalnościowy  
 - 🌍 Rozszerzenie na inne rynki  
